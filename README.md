@@ -1,6 +1,6 @@
 # Group Project - Comp90042: Natural Language Processing 
 
-## Contributor
+## Contributors
 1. Jiatong Li 
 2. Sherry Wang 
 3. Moxuan Zhang 
